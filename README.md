@@ -19,8 +19,6 @@ This project presents a system implemented in Python using Artificial Neural Net
 - Run the Django server using the command "**python manage.py runserver**"
 - Go to http://127.0.0.1:8000/ to view the web interface.
 
-## More Details
-- [Report](https://drive.google.com/file/d/1pDdQjEc6yWnpgNCmW2E-B1pS8RgX_rM0/view?usp=sharing)
 
 
 ## Authors
